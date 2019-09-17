@@ -1,4 +1,4 @@
-# IBM Continuous Delivery
+# IBM Continuous Delivery Example scripts
 
 Here is the documentation for setting up a Delivery pipeline using the [IBM Cloud Continuous Delivery Service.](https://cloud.ibm.com/docs/services/ContinuousDelivery?topic=ContinuousDelivery-deliverypipeline_about)
 
