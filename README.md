@@ -1,6 +1,6 @@
 # IBM Continuous Delivery
 
-IBM has great documentation for setting up a Delivery pipeline via the UI.  This [link here](https://cloud.ibm.com/docs/services/ContinuousDelivery?topic=ContinuousDelivery-deliverypipeline_about) is a good place to start.  
+Here is the documentation for setting up a Delivery pipeline using the [IBM Continuous Delivery Service](https://cloud.ibm.com/docs/services/ContinuousDelivery?topic=ContinuousDelivery-deliverypipeline_about)
 
 ### Helpful Resources & Tutorials
 
