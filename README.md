@@ -6,7 +6,7 @@ Here is the documentation for setting up a Delivery pipeline using the [IBM Clou
 
 [Tutorial](https://www.ibm.com/cloud/garage/tutorials/tutorial_gm_advocate_otc) - Walks through how to use an open toolchain template to create a Node.js "Hello World" app. The toolchain includes all of the tools that you need to code, build, deploy, and collaborate on the app on IBM Cloud.
 
-[Open Toolchain Github](https://github.com/open-toolchain) - Here you can find many examples of Continuous Delivery configuartion files. 
+[Open Toolchain Github](https://github.com/open-toolchain) - Here you can find many examples of Continuous Delivery configuration files. 
 
 [Blockchain Starter Kit](https://github.com/sstone1/blockchain-starter-kit/tree/master/.bluemix) - Here you can find an example of the IBM toolchain & delivery pipeline configuration files for building and deploying a blockchain application. 
 
